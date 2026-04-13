@@ -37,9 +37,10 @@ The toolkit focuses on real-world skills such as network reconnaissance, system 
 <h2><ul>
     <li>Generates secure passwords based on user-defined criteria:
         <ul>
-                <li>Lists available interfaces (Windows support via PowerShell)</li>
-                <li>Designed as a foundation for MAC spoofing functionality</li>
-                <li>Cross-platform support (Windows/Linux)</li>
+                <li>Uppercase</li>
+                <li>Lowercase</li>
+                <li>Numbers</li>
+                <li>Special Characters</li>
             </ul>
             <li>Evaluates password strength based on complexity rules</li>
         </ul>
