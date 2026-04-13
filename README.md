@@ -37,17 +37,18 @@ The toolkit focuses on real-world skills such as network reconnaissance, system 
 <h2><ul>
     <li>Generates secure passwords based on user-defined criteria:
         <ul>
-            <li>Retrieves MAC addresses for specified network interfaces</li>
-            <li>Lists available interfaces (Windows support via PowerShell)</li>
-            <li>Designed as a foundation for MAC spoofing functionality</li>
-            <li>Cross-platform support (Windows/Linux)</li>
+                <li>Lists available interfaces (Windows support via PowerShell)</li>
+                <li>Designed as a foundation for MAC spoofing functionality</li>
+                <li>Cross-platform support (Windows/Linux)</li>
+            </ul>
+            <li>Evaluates password strength based on complexity rules</li>
         </ul>
     </li>    
 </h2>
 <h2> Key Concepts:<ul>
-    <li>System-level networking commands</li>
-    <li>Regex parsing of command output</li>
-    <li>OS-aware command handling</li>
+    <li>Password policy enforcement</li>
+    <li>Secure randomness</li>
+    <li>Input validation</li>
     </ul></h2>
 
 
