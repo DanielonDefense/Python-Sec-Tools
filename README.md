@@ -4,6 +4,16 @@
 <h2>This repository contains a collection of Python-based security tools designed to demonstrate foundational concepts in both offensive and defensive cybersecurity.
 
 The toolkit focuses on real-world skills such as network reconnaissance, system interaction, and password security, with cross-platform support for Windows and Linux environments.</h2>
+
+<h1>🚀 Getting Started</h1>
+<h2>Requirements</h2>
+<h2>
+    <ul>
+        <li>Python 3.x</li>
+        <li>Passlib</li>
+    </ul>
+</h2>
+
 <h1>⚙️ Tools Included:</h1>
 <h1>🌐 IP Scanner</h1>
 <h2><ul>
@@ -66,14 +76,6 @@ The toolkit focuses on real-world skills such as network reconnaissance, system 
     <li>Data integrity</li>
     </ul></h2>
 
-<h1>🚀 Getting Started</h1>
-<h2>Requirements</h2>
-<h2>
-    <ul>
-        <li>Python 3.x</li>
-        <li>Passlib</li>
-    </ul>
-</h2>
 
 <h1>📈 Future Improvements</h1>
     <h2>
